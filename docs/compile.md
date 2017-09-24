@@ -71,7 +71,7 @@ There are other command formats, flags, and shortcuts, which are not
 listed here. The above commands are sufficient for basic compilation
 needs.
 
-##Example
+## Example
 
 The following example is the step by step compilation of the files for
 the fraction class example.
