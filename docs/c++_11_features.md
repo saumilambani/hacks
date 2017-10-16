@@ -41,11 +41,16 @@ for (auto& [first,second] : mymap) {
 }
 ```
 
-
-### Auto pointer 
-
-
-### thread_sleep
+### this_thread
+Groups a set of functions that access the current thread. 
+get_id, yield, sleep_until, sleep_for
 
 
+### std::ref
 
+### std::move 
+
+
+### Rvalue reference 
+
+http://thbecker.net/articles/rvalue_references/section_06.html
